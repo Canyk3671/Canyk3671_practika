@@ -26,7 +26,7 @@
 
         if (count % 2 == 0)
         {
-            return (values[count / 2 - 1] + values[count / 2]) / 2.0;
+            return (values[count / 2 - 1] + values[count / 2]) / 2d;
         }
         else
         {

@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics.Metrics;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/stats")]
+[RequestFormLimits(MultipartBodyLengthLimit = 268435456)]
+[RequestSizeLimit(52428800)]
 public class StatsController : ControllerBase
 {
     private readonly List<Measurement> _measurements;
@@ -64,6 +65,7 @@ public class StatsController : ControllerBase
         {
             return StatusCode(500, $"Internal server error: {ex.Message}");
         }
+
     }
 
     [HttpGet]

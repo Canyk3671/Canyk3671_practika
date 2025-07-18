@@ -1,4 +1,5 @@
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\.filenesting.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\appsettings.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\ReactApp2.Server.staticwebassets.endpoints.json
@@ -21,6 +22,7 @@ C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\React
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.csproj.CoreCompileInputs.cache
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.sourcelink.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -36,5 +38,3 @@ C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\refin
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.pdb
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.genruntimeconfig.cache
 C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ref\ReactApp2.Server.dll
-C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\bin\Debug\net8.0\.filenesting.json
-C:\Users\Саша\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.sourcelink.json

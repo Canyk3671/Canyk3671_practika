@@ -1,6 +1,8 @@
-﻿using System.Diagnostics.Metrics;
+﻿using Microsoft.AspNetCore.Http.Features;
+using System.Diagnostics.Metrics;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -15,6 +17,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(builder => builder.AllowAnyOrigin()
+                                          .AllowAnyHeader());
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
