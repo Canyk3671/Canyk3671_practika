@@ -3,80 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\tables.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\moya_lichnaya_razrabotka\\tables.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\charts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\moya_lichnaya_razrabotka\\charts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\fileupload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\moya_lichnaya_razrabotka\\fileupload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\services\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\services\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\models\\statisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\models\\statisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\moya_lichnaya_razrabotka\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\models\\measurments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\models\\measurments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\components\\charts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\components\\charts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\components\\fileupload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\components\\fileupload.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\services\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\services\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\models\\statisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\models\\statisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\models\\measurments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\models\\measurments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\components\\statcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\components\\statcard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\components\\tables.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\components\\tables.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D345D938-2616-DBB5-4EFA-1FF36651E74F}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A2B06BA-5C0A-4DBF-8025-7A242D13D1EF}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\source\\repos\\reactapp2\\reactapp2.server\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "StatisticsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\StatisticsResponse.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Models\\StatisticsResponse.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\StatisticsResponse.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Models\\StatisticsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:45:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Services\\StatisticsCalculator.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Services\\StatisticsCalculator.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Services\\StatisticsCalculator.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Services\\StatisticsCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:46:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Program.cs",
               "RelativeDocumentMoniker": "ReactApp2.Server\\Program.cs",
@@ -111,181 +141,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\main.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\components\\Dashboard.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Dashboard.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\components\\Dashboard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-08T21:33:47.769Z",
+              "WhenOpened": "2025-07-08T21:30:11.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StatsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Controllers\\StatsController.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Controllers\\StatsController.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Controllers\\StatsController.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Controllers\\StatsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:38:58.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "test.csv",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Data\\test.csv",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Data\\test.csv",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Data\\test.csv",
-              "RelativeToolTip": "ReactApp2.Server\\Data\\test.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-07-17T09:44:01.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatisticsCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Services\\StatisticsCalculator.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Services\\StatisticsCalculator.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Services\\StatisticsCalculator.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Services\\StatisticsCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:46:15.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FileUpload.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\FileUpload.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\FileUpload.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\FileUpload.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\FileUpload.jsx",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.jsx*",
+              "RelativeToolTip": "reactapp2.client\\src\\App.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-08T21:29:50.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "api.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\services\\api.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\services\\api.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\services\\api.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\services\\api.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-17T10:08:07.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tables.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Tables.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Tables.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Tables.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Tables.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-09T11:29:24.306Z",
+              "WhenOpened": "2025-07-08T21:30:50.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Charts.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Charts.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Charts.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Charts.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Charts.jsx",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Charts.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\components\\Charts.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Charts.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\components\\Charts.jsx",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwIcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-07-08T21:30:24.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StatisticsResponse.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\StatisticsResponse.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Models\\StatisticsResponse.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\StatisticsResponse.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Models\\StatisticsResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:45:05.487Z",
+              "WhenOpened": "2025-07-17T09:38:58.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\vite.config.js",
-              "RelativeDocumentMoniker": "reactapp2.client\\vite.config.js",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\vite.config.js",
-              "RelativeToolTip": "reactapp2.client\\vite.config.js",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-08T21:41:24.822Z",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\package.json",
+              "RelativeDocumentMoniker": "reactapp2.client\\package.json",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\package.json",
+              "RelativeToolTip": "reactapp2.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T21:43:00.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\App.jsx",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-08T21:30:50.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Dashboard.jsx",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Dashboard.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Dashboard.jsx",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\moya_lichnaya_razrabotka\\Dashboard.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\moya_lichnaya_razrabotka\\Dashboard.jsx",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAJQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-08T21:30:11.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Measurments.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\Measurments.cs",
               "RelativeDocumentMoniker": "ReactApp2.Server\\Models\\Measurments.cs",
               "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Models\\Measurments.cs",
               "RelativeToolTip": "ReactApp2.Server\\Models\\Measurments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T09:44:47.283Z"
+              "WhenOpened": "2025-07-17T09:44:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.css",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.css",
+              "RelativeToolTip": "reactapp2.client\\src\\App.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-08T21:42:14.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUpload.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\FileUpload.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\components\\FileUpload.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\FileUpload.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\components\\FileUpload.jsx",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-08T21:29:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "api.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\services\\api.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\services\\api.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\services\\api.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\services\\api.jsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T10:08:07.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "launch.json",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\.vscode\\launch.json",
-              "RelativeDocumentMoniker": "reactapp2.client\\.vscode\\launch.json",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\.vscode\\launch.json",
-              "RelativeToolTip": "reactapp2.client\\.vscode\\launch.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T11:17:06.545Z"
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\vite.config.js",
+              "RelativeDocumentMoniker": "reactapp2.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\vite.config.js",
+              "RelativeToolTip": "reactapp2.client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-08T21:41:24.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -297,11 +279,74 @@
               "RelativeToolTip": "reactapp2.client\\src\\index.css",
               "ViewState": "AgIAAIcAAAAAAAAAAAAmwKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-17T10:09:41.444Z"
+              "WhenOpened": "2025-07-17T10:09:41.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
+              "Title": "Tables.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Tables.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\components\\Tables.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\Tables.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\components\\Tables.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T11:29:24.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatCard.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\StatCard.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\components\\StatCard.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\components\\StatCard.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\components\\StatCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-20T13:45:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\main.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-08T21:33:47.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "test.csv",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Data\\test.csv",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Data\\test.csv",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\Data\\test.csv",
+              "RelativeToolTip": "ReactApp2.Server\\Data\\test.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-07-17T09:44:01.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "reactapp2.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\.vscode\\launch.json",
+              "RelativeToolTip": "reactapp2.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T11:17:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": ".filenesting.json",
               "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\ReactApp2.Server\\.filenesting.json",
               "RelativeDocumentMoniker": "ReactApp2.Server\\.filenesting.json",
@@ -313,19 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\package.json",
-              "RelativeDocumentMoniker": "reactapp2.client\\package.json",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\package.json",
-              "RelativeToolTip": "reactapp2.client\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T21:43:00.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\index.html",
               "RelativeDocumentMoniker": "reactapp2.client\\index.html",
@@ -334,18 +367,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-07-09T11:05:45.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.css",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\App.css",
-              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\source\\repos\\ReactApp2\\reactapp2.client\\src\\App.css",
-              "RelativeToolTip": "reactapp2.client\\src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-08T21:42:14.258Z"
             }
           ]
         },
